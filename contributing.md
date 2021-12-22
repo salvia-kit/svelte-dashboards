@@ -11,4 +11,3 @@ You can contribute by fixing bugs or grammar.
 7. Navigate to the original repository where you created your fork
 8. Click on `Compare and pull request` to view changes
 9. Then click on `create pull request`
-

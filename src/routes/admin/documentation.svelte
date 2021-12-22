@@ -6,4 +6,4 @@
 	<title>Documentation</title>
 </svelte:head>
 
-<Doc/>
+<Doc />
