@@ -37,7 +37,7 @@
 			</div>
 			<div class="pl-16 flex mb-3">
 				<JsIcon />
-				<span class="pl-2">clickOutside.js</span>
+				<span class="pl-2">click-outside.js</span>
 			</div>
 			<div class="pl-16 flex mb-3">
 				<SvelteIcon />
@@ -99,7 +99,7 @@
 			</div>
 			<div class="flex flex-wrap md:flex-nowrap pl-6 mt-4">
 				<JsIcon class="h-7 w-7" />
-				<span class="px-2 font-medium">clickOutside.js</span> :
+				<span class="px-2 font-medium">click-outside.js</span> :
 				<p class="pl-2">it handles the click outside of sidenav.</p>
 			</div>
 			<div class="flex flex-wrap md:flex-nowrap pl-6 mt-6">
