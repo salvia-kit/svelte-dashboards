@@ -13,16 +13,16 @@
 		main: `h-screen overflow-auto pb-36 pt-4 px-2 md:pb-8 md:pt-4 lg:pt-0 lg:px-4`
 	};
 
+	onMount(() => {
+		document.getElementsByTagName('body').item(0).removeAttribute('tabindex');
+	});
+
 	if (browser) {
 		page.subscribe(() => {
 			// close side navigation when route changes when viewport < 1024px
 			$open = false;
 		});
 	}
-
-	onMount(() => {
-		document.getElementsByTagName('body').item(0).removeAttribute('tabindex');
-	});
 </script>
 
 <div class={style.container}>

@@ -2,7 +2,7 @@
 	import { open } from '../provider/store';
 	import SidenavItems from './Items.svelte';
 	import SidenavHeader from './Header.svelte';
-	import { clickOutside } from '../provider/clickOutside';
+	import { clickOutside } from '../provider/click-outside';
 
 	const style = {
 		mobilePosition: {

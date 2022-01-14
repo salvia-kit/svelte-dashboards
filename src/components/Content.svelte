@@ -414,7 +414,7 @@
 				>
 					<img
 						src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-						alt="profile image"
+						alt="profile"
 						class="object-cover w-10 h-10 rounded-full"
 					/>
 					<div class="pl-4 w-full">
@@ -451,7 +451,7 @@
 				>
 					<img
 						src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80"
-						alt="profile image"
+						alt="profile"
 						class="object-cover w-10 h-10 rounded-full"
 					/>
 					<div class="pl-4 w-full">
@@ -487,7 +487,7 @@
 				>
 					<img
 						src="https://images.unsplash.com/photo-1543965170-4c01a586684e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDZ8fG1hbnxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-						alt="profile image"
+						alt="profile"
 						class="object-cover w-10 h-10 rounded-full"
 					/>
 					<div class="pl-4 w-full">
@@ -523,7 +523,7 @@
 				>
 					<img
 						src="https://images.unsplash.com/photo-1533993192821-2cce3a8267d1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fHdvbWFuJTIwbW9kZXJufGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60"
-						alt="profile image"
+						alt="profile"
 						class="object-cover w-10 h-10 rounded-full"
 					/>
 					<div class="pl-4 w-full">
