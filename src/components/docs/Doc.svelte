@@ -98,7 +98,7 @@
 				<FolderIcon /> <strong class="px-1">provider</strong>
 			</div>
 			<div class="flex flex-wrap md:flex-nowrap pl-6 mt-4">
-				<JsIcon class="h-7 w-7" />
+				<JsIcon extendClass="h-7 w-7" />
 				<span class="px-2 font-medium">click-outside.js</span> :
 				<p class="pl-2">it handles the click outside of sidenav.</p>
 			</div>
@@ -111,7 +111,7 @@
 				</p>
 			</div>
 			<div class="flex flex-wrap md:flex-nowrap pl-6 mt-6">
-				<JsIcon class="h-7 w-7" />
+				<JsIcon extendClass="h-7 w-7" />
 				<span class="px-2 font-medium">store.js</span> :
 				<p class="pl-2">contains the store value for toggling sidenav state</p>
 			</div>
@@ -122,7 +122,7 @@
 				<FolderIcon /> <strong class="px-1">sidenavigation</strong>
 			</div>
 			<div class="flex flex-wrap md:flex-nowrap pl-6 mt-4">
-				<FolderIcon class="h-7 w-7" />
+				<FolderIcon extendClass="h-7 w-7" />
 				<span class="px-2 font-medium">icons</span> :
 				<p class="pl-1">
 					As each <strong>sidenav-item</strong> has an icon, this sub-folder contains the icons of each
